@@ -42,7 +42,17 @@
 //  * "hitesh" => true
 //  */
 
-let someNumber =33
-let stringNumber= string(someNumber)
-console.log(stringNumber);
-console.log(typeof stringNumber);
+// let someNumber =33
+// let stringNumber= string(someNumber)
+// console.log(stringNumber);
+// console.log(typeof stringNumber);
+
+// console.log("1" +2); //12
+// console.log(1 + "2"); // 12
+// console.log("1" + 2 + 2); //122
+// console.log(1+2+"2"); // 32
+// console.log(3+4 * 5 % 3); // use more parathensis 
+// console.log( (3+4) * 5%3);
+
+// console.log(+true); // boolean
+// console.log(+""); // empty take as 0
